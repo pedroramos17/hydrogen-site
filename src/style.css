@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+	margin: 0;
+	background-image: url("./img/hydrogen-logo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 10em;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-size: 3em;
+}
+
+.nav-link {
+	display: flex;
+	justify-content: center;
+}
+
+.github {
+	width: 72px;
+}
